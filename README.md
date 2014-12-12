@@ -10,7 +10,8 @@ The Blackbaud Internet Solutions Developer Showcase was created in an effort to 
 - [The Ohio State University - Query API](https://connect1.osu.edu/alumni/sslpage.aspx?pid=496)
 - [IMB - Advanced Donation Form](https://netcommunity.imb.org/giving-search-page)
 - [University of Michigan - Custom Content Parts](http://designsandbox8.blackbaud.com/BBIS_ProfSvcs_Sandbox/u-of-m---leaders-and-best-slideshow-part)
-- [BBCON Presentation for BBIS Developers, by Blackbaud Developer J. Schultz](http://slides.com/jowenschultz/bbis-developer-showcase)
+- [BBCON Presentation for BBIS Developers, by Blackbaud developer J. Schultz](http://slides.com/jowenschultz/bbis-developer-showcase)
+- [BBIS Handbook, by Blackbaud developers Chris Whisenhunt and Joseph Styons](http://www.bbdevnetwork.com/blogs/the-bbis-handbook/)
 
 ##Contributing##
 
