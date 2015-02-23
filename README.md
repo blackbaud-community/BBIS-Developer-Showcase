@@ -5,7 +5,7 @@ The Blackbaud Internet Solutions Developer Showcase was created in an effort to 
 
 - [UC San Diego - Advanced Donation Form](https://giveto.ucsd.edu/)
 - [West Point Associate of Graduates - Responsive Design](http://www.westpointaog.org/)
-- [Indiana University - Advanced Donation Form](https://22181s.blackbaudhosting.com/)
+- [Indiana University - Advanced Donation Form](https://www.myiu.org/give-now)
 - [Indiana University - BBIS API AngularJS port](https://github.com/IUCrimson/angular-bbis)
 - [University of Arizona - Query API](http://uafoundation.org/NetCommunity/arizona-now)
 - [The Ohio State University - Query API](https://connect1.osu.edu/alumni/sslpage.aspx?pid=496)
